@@ -2,6 +2,8 @@
 
 An in-person workshop with SudoRoom making a webXR sample in Virtual Reality - See our [blog post](https://sudoroom.org/a-trip-to-show-era-japan-at-our-vr-workshop/) and subscribe to our events!
 
+View at [https://lava-scarce-taste.glitch.me](https://lava-scarce-taste.glitch.me)
+
 ## About A-Frame	
 
 **[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
