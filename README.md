@@ -4,7 +4,8 @@ An in-person workshop with SudoRoom making a webXR sample in Virtual Reality - S
 
 View at [https://lava-scarce-taste.glitch.me](https://lava-scarce-taste.glitch.me)
 
-## About A-Frame	
+![Uploading image.png…]()
+
 
 **[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
 
